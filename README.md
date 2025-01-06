@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Simple History is a lightweight and powerful plugin designed to log activity and provide a complete audit trail on WordPress sites. It's trusted by 200,000+ active users for monitoring site changes, debugging, and enhancing security.
+
+### Learn More
+
+- [Visit the Simple History website](https://simple-history.com/)
+- [Explore the Simple History plugin on WordPress.org](https://wordpress.org/plugins/simple-history/)
+- [Check out the main repository](https://github.com/bonny/WordPress-Simple-History/)
+
 <!--
 **Simple-History/Simple-History** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
