@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Simple History is a lightweight and powerful plugin designed to log activity and provide a complete audit trail on WordPress sites. It's trusted by 200,000+ active users for monitoring site changes, debugging, and enhancing security.
+Simple History is a lightweight and powerful plugin designed to log activity and provide a complete audit trail on WordPress sites. It's trusted by 300,000+ active users for monitoring site changes, debugging, and enhancing security.
 
 ### Learn More
 
